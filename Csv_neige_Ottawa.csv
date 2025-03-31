@@ -1,7 +1,7 @@
-;neige_au_sol;snow_total ;snow_event ;;;site_parameter
+;neige_au_sol;snow_total;snow_event;;;site_parameter
 january;489;56;13;;latitude;45.38
 february;1010;59;12;;longitude;-75.72
-march;704;24;5;;timezone;Canada/Ottawa
+march;704;24;5;;timezone;America/Ottawa
 april;27;2;1;;elevation;70
 may;0;0;0;;name;ottawa
 june;0;0;0;;;

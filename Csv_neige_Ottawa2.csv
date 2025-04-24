@@ -1,4 +1,4 @@
-;snow_total ;snow_event ;;;site_parameter
+;snow_total;snow_event;;;site_parameter
 january;489;13;;latitude;45.38
 february;1010;12;;longitude;-75.72
 march;704;5;;timezone;America/Ottawa
